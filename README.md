@@ -1,0 +1,2 @@
+# week-8
+Get hands-on experience with some of the most common security exploits through an applied hacking exercise.  Three versions of the Globitek website are available to you. They are mostly identical. However, each one has been given a different color menu bar—blue, green, red—and each one has been given two different security vulnerabilities.  Your challenge is to attempt to find and exploit the vulnerabilities. The goal is to identify which two vulnerabilities blue has, which two vulnerabilities green has, and which two vulnerabilities red has.
