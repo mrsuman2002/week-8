@@ -1,2 +1,41 @@
-# week-8
-Get hands-on experience with some of the most common security exploits through an applied hacking exercise.  Three versions of the Globitek website are available to you. They are mostly identical. However, each one has been given a different color menu bar—blue, green, red—and each one has been given two different security vulnerabilities.  Your challenge is to attempt to find and exploit the vulnerabilities. The goal is to identify which two vulnerabilities blue has, which two vulnerabilities green has, and which two vulnerabilities red has.
+
+# Project 8 - Pentesting Live Targets
+
+Time spent: **15** hours spent in total
+
+> Objective: Identify vulnerabilities in three different versions of the Globitek website: blue, green, and red.
+
+The six possible exploits are:
+* Username Enumeration
+* Insecure Direct Object Reference (IDOR)
+* SQL Injection (SQLi)
+* Cross-Site Scripting (XSS)
+* Cross-Site Request Forgery (CSRF)
+* Session Hijacking/Fixation
+
+Each version of the site has been given two of the six vulnerabilities. (In other words, all six of the exploits should be assignable to one of the sites.)
+
+## Blue
+
+Vulnerability #1: __SQL INJECTION- BLUE Vulnerable________________
+
+Vulnerability #2: ___Session Hijacking or Fixation Blue Vulnerable_______________
+
+
+## Green
+
+Vulnerability #1: __Cross-Site Scripting Green Vulnerable________________
+
+Vulnerability #2: __user enumeration Green vulnerable________________
+
+
+## Red
+
+Vulnerability #1: ___CSRF- Red Vulnerable_______________
+
+Vulnerability #2: ____Insecure Data Object Reference- Red Vulnerable______________
+
+##Bonus build on XSS
+Build on Objective #4 (Cross-Site Scripting). Experiment to see if you can use XSS to: direct the user to a google
+
+
